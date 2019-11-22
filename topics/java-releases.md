@@ -5,6 +5,7 @@ date: 2019-11-22
 ---
 
 ## JDK 14
+
 | Notable | Feature                                           |    Description     | Link                                         |
 |:-------:|:--------------------------------------------------|:------------------:|:---------------------------------------------|
 |         | Records                                           |                    | [JEP 359](https://openjdk.java.net/jeps/359) |
@@ -14,6 +15,7 @@ date: 2019-11-22
 | **YES** | Deprecating `parallel scavenge` & `serial old` gc |                    |                                              |
 
 ## JDK 13
+
 | Notable | Feature                       |                    Description                    | Link                                         |
 |:-------:|:------------------------------|:-------------------------------------------------:|:---------------------------------------------|
 | **YES** | `switch` expresions (preview) |                                                   | [JEP 354](https://openjdk.java.net/jeps/354) |

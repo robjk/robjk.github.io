@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Jekyll odds and sods
 

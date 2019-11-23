@@ -6,6 +6,7 @@ published: true
 ---
 
 ## [JDK 14](https://openjdk.java.net/projects/jdk/14/)
+[14 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-14.txt)
 
 | Notable | Feature                                           |                      Description                       | Link                                         |
 |:-------:|:--------------------------------------------------|:------------------------------------------------------:|:---------------------------------------------|
@@ -19,9 +20,9 @@ published: true
 |         | ? NUMA aware G1                                   |                                                        | [JEP 345](https://openjdk.java.net/jeps/345) |
 |         | ? Non-Volatile Mapped Byte Buffers                |                                                        | [JEP 352](https://openjdk.java.net/jeps/352) |
 |         | ? Helpful NPEs                                    | Tells you which part of a compound statement was null  | [JEP 358](https://openjdk.java.net/jeps/358) |
-[14 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-14.txt)
 
 ## [JDK 13](https://openjdk.java.net/projects/jdk/13/)
+[13 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-13.txt)
 
 | Notable | Feature                       |                    Description                    | Link                                         |
 |:-------:|:------------------------------|:-------------------------------------------------:|:---------------------------------------------|
@@ -30,17 +31,17 @@ published: true
 |         | text blocks (preview)         |                Multi-line strings                 | [JEP 368](https://openjdk.java.net/jeps/368) |
 |         | ZGC releases unused storage   |                                                   | [JEP 351](https://openjdk.java.net/jeps/351) |
 |    ✅    | Renewed socket API            | prep work for fibers, but easier to work with too | [JEP 353](https://openjdk.java.net/jeps/353) |
-[13 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-13.txt)
 
 ## [JDK 12](https://openjdk.java.net/projects/jdk/12/)
+[12 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-12.txt)
 
 | Notable | Feature                           |                    Description                    | Link                                         |
 |:-------:|:----------------------------------|:-------------------------------------------------:|:---------------------------------------------|
 |    ✅    | Shenandoah GC (v1.0 experimental) | Now deprecated, v2.0 does not use Brooks pointers | [JEP 189](https://openjdk.java.net/jeps/189) |
 |         | JMH benchmarkes for JDK features                                                     || [JEP 230](https://openjdk.java.net/jeps/230) |
-[12 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-12.txt)
 
 ## [JDK 11](https://openjdk.java.net/projects/jdk/11/)
+[11 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-11.txt)
 
 | Notable | Feature                                 | Description | Link                                         |
 |:-------:|:----------------------------------------|:-----------:|:---------------------------------------------|
@@ -48,4 +49,3 @@ published: true
 |    ✅    | HTTP Client                             |             | [JEP 321](https://openjdk.java.net/jeps/321) |
 |    ✅    | Local-Variable Syntax for Lambda Params |    `var`    | [JEP 323](https://openjdk.java.net/jeps/323) |
 |    ✅    | Low-Overhead Heap Profiling             |  Via JVMTI  | [JEP 331](https://openjdk.java.net/jeps/331) |
-[11 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-11.txt)

@@ -29,6 +29,7 @@ published: true
 |         | text blocks (preview)         |                Multi-line strings                 | [JEP 368](https://openjdk.java.net/jeps/368) |
 |         | ZGC releases unused storage   |                                                   | [JEP 351](https://openjdk.java.net/jeps/351) |
 |    ✅    | Renewed socket API            | prep work for fibers, but easier to work with too | [JEP 353](https://openjdk.java.net/jeps/353) |
+
 [Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-13.txt)
 
 ## [JDK 12](https://openjdk.java.net/projects/jdk/12/)

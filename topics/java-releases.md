@@ -6,7 +6,7 @@ published: true
 ---
 
 ## [JDK 14](https://openjdk.java.net/projects/jdk/14/)
-[14 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-14.txt)
+[commits](https://builds.shipilev.net/backports-monitor/release-notes-14.txt)
 
 | Notable | Feature                                           |                      Description                       | Link                                         |
 |:-------:|:--------------------------------------------------|:------------------------------------------------------:|:---------------------------------------------|
@@ -22,7 +22,7 @@ published: true
 |         | ? Helpful NPEs                                    | Tells you which part of a compound statement was null  | [JEP 358](https://openjdk.java.net/jeps/358) |
 
 ## [JDK 13](https://openjdk.java.net/projects/jdk/13/)
-[13 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-13.txt)
+[commits](https://builds.shipilev.net/backports-monitor/release-notes-13.txt)
 
 | Notable | Feature                       |                    Description                    | Link                                         |
 |:-------:|:------------------------------|:-------------------------------------------------:|:---------------------------------------------|
@@ -33,7 +33,7 @@ published: true
 |    ✅    | Renewed socket API            | prep work for fibers, but easier to work with too | [JEP 353](https://openjdk.java.net/jeps/353) |
 
 ## [JDK 12](https://openjdk.java.net/projects/jdk/12/)
-[12 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-12.txt)
+[commits](https://builds.shipilev.net/backports-monitor/release-notes-12.txt)
 
 | Notable | Feature                           |                    Description                    | Link                                         |
 |:-------:|:----------------------------------|:-------------------------------------------------:|:---------------------------------------------|
@@ -41,7 +41,7 @@ published: true
 |         | JMH benchmarkes for JDK features                                                     || [JEP 230](https://openjdk.java.net/jeps/230) |
 
 ## [JDK 11](https://openjdk.java.net/projects/jdk/11/)
-[11 - Commit release notes](https://builds.shipilev.net/backports-monitor/release-notes-11.txt)
+[commits](https://builds.shipilev.net/backports-monitor/release-notes-11.txt)
 
 | Notable | Feature                                 | Description | Link                                         |
 |:-------:|:----------------------------------------|:-----------:|:---------------------------------------------|

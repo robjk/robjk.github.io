@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-modernest
 name: Rob King
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title

@@ -1,4 +1,4 @@
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
 name: Rob King
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title

@@ -10,16 +10,9 @@ published: true
 </div>
 
 <h4>Tags</h4>
-
 <span>[
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
 ]</span>
-
-<ul>
-{% for tag in page.tags %}
-  <li>{{ tag }}</li>
-{% endfor %}
-</ul>

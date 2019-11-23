@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-hacker
 name: Rob King
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title

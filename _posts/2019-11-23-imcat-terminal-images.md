@@ -6,4 +6,4 @@ tags: linux windows gfx cli
 
 [https://github.com/stolk/imcat](https://github.com/stolk/imcat)
 
-![imcat_tiger[1].png]({{site.baseurl}}/_drafts/imcat_tiger[1].png)
+![imcat_tiger[1].png]({{site.baseurl}}/_posts/imcat_tiger[1].png)

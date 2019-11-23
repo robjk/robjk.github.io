@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+tags: linux windows gfx cli
 ---
 ## imcat - render images in terminal
 

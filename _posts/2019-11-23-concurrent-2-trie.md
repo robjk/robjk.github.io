@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: algorithms
 ---
 ## Concurrent 2-Trie

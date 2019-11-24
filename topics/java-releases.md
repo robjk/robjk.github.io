@@ -1,9 +1,11 @@
 ---
 layout: post
 title: JDK notable changes
-date: 2019-11-22
+date: 2019-11-22T00:00:00.000Z
 published: true
 ---
+[Online Command Line Decoder](https://jacoline.dev/inspect)
+[VM Options Explorer](https://chriswhocodes.com/hotspot_options_jdk11.html)
 
 ## [JDK 14](https://openjdk.java.net/projects/jdk/14/)
 [commits](https://builds.shipilev.net/backports-monitor/release-notes-14.txt)

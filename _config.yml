@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-name: Rob King
+name: Rob
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 show_downloads: false

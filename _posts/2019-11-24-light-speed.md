@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: performance physics
 ---
 ## Light Speed

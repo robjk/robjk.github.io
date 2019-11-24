@@ -1,6 +1,7 @@
 ---
 published: true
 tags: performance physics
+title: Light Speed
 ---
 ## Light Speed
 

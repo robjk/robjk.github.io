@@ -1,6 +1,7 @@
 ---
 published: true
 tags: algorithms java
+title: SmoothieMap2
 ---
 ## SmoothieMap2
 

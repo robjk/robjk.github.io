@@ -1,6 +1,7 @@
 ---
 published: true
 tags: linux performance
+title: Linux boot: disable side-channel mitigations and restore speed
 ---
 ## Linux boot: disable side-channel mitigations and restore speed
 [https://make-linux-fast-again.com](https://make-linux-fast-again.com)

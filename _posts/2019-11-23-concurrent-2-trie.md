@@ -1,6 +1,7 @@
 ---
 published: true
 tags: algorithms
+title: Concurrent 2-Trie
 ---
 ## Concurrent 2-Trie
 

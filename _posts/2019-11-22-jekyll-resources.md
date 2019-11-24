@@ -1,5 +1,6 @@
 ---
 published: true
+title: Jekyll odds and sods
 ---
 ## Jekyll odds and sods
 

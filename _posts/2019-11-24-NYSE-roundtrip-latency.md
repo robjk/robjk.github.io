@@ -1,9 +1,9 @@
 ---
 published: true
 tags: performance
-title: NYSE Roundtrip Latency Numbers
+title: NYSE Pillar Roundtrip Latency
 ---
-## {{ page.title }}
+## NYSE Pillar Roundtrip Latency
 
 [NYSE Pillar](https://www.nyse.com/equities-insights#20190919)
 > Pillar's anticipated benefits are already being realized. In particular, the new "Native Gateway" order entry protocols offer dramatic improvements for members and their clients:

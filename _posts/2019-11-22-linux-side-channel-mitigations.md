@@ -16,7 +16,7 @@ As of today
 
 [Brendan Gregg's summary of the problem](http://www.brendangregg.com/blog/2018-02-09/kpti-kaiser-meltdown-performance.html)
 
-> In this post I'll look at the Linux kernel page table isolation (KPTI) patches that workaround Meltdown: what overheads to expect, and ways to tune them. Much of my testing was on Linux 4.14.11 and 4.14.12 a month ago, before we deployed in production  
+> In this post I'll look at the **Linux kernel page table isolation (KPTI)** patches that workaround Meltdown: what overheads to expect, and ways to tune them. Much of my testing was on Linux 4.14.11 and 4.14.12 a month ago, before we deployed in production  
 
 > Note that there are potentially four layers of overhead for Meltdown/Spectre, this is just one. They are:
 - Guest kernel KPTI patches (this post)

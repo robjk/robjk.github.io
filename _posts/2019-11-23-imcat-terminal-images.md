@@ -1,6 +1,6 @@
 ---
 published: true
-tags: linux windows gfx cli
+tags: linux windows gfx cli software
 ---
 ## imcat - render images in terminal
 

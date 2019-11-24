@@ -12,6 +12,8 @@ As of today
 
 [Linux Reviews article on the topic](https://linuxreviews.org/HOWTO_make_Linux_run_blazing_fast_(again)_on_Intel_CPUs)
 
+---
+
 [Brendan Gregg's summary of the problem](http://www.brendangregg.com/blog/2018-02-09/kpti-kaiser-meltdown-performance.html)
 
 > In this post I'll look at the Linux kernel page table isolation (KPTI) patches that workaround Meltdown: what overheads to expect, and ways to tune them. Much of my testing was on Linux 4.14.11 and 4.14.12 a month ago, before we deployed in production  

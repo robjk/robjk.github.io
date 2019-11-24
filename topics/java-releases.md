@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JDK notable changes
-date: {}
+date: 2019-11-22
 published: true
 ---
 [Online Command Line Decoder](https://jacoline.dev/inspect)  

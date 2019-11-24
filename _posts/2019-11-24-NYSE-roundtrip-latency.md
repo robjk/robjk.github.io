@@ -3,7 +3,7 @@ published: true
 tags: performance
 title: NYSE Roundtrip Latency Numbers
 ---
-## {{ post.title }}
+## {{ page.title }}
 
 In summary, low double-digit micros for FIX or binary
 

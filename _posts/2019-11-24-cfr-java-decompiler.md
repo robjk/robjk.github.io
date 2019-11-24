@@ -1,6 +1,7 @@
 ---
 published: true
 tags: java software
+title: CFR Java Decompiler
 ---
 ## CFR Java Decompiler
 

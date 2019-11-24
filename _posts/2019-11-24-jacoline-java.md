@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: java jvm
 ---
 ## JaCoLine ‑ Java Command Line Inspector

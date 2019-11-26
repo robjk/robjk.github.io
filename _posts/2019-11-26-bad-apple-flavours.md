@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Bad Apple Flavours
 tags: demoscene ephemera
 ---

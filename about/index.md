@@ -11,3 +11,7 @@ I'm guardedly optimistic that, **this time**, jekyll/github pages might actually
 Current workflow
 
 **[newsblur](https://newsblur.com)/[twitter](https://www.twitter.com)/other » [pocket](https://getpocket.com) »  ...time passes... » me » [prose.io](https://https://prose.io) » [github](https://github.com/robjk) » here**
+
+---
+
+![oops]({{site.baseurl}}/assets/oops.png)

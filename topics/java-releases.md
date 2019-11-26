@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JDK notable changes
-date: 2019-11-22
+date: {}
 published: true
 ---
 [Online Command Line Decoder](https://jacoline.dev/inspect)  
@@ -18,7 +18,7 @@ published: true
 |         | Packaging tool                                                                                            || [JEP 343](https://openjdk.java.net/jeps/343) |
 |         | `instanceof` pattern matching                                                                             || [JEP 305](https://openjdk.java.net/jeps/305) |
 |         | text blocks                                       |                   Multi-line strings                   | [JEP 368](https://openjdk.java.net/jeps/368) |
-|    ✅    | ? Remove CMS GC                                   | This is big, which GC to use for "zero GC" programming | [JEP 363](https://openjdk.java.net/jeps/363) |
+|    ✅    | ? Remove CMS GC                                   | This is big, which GC to use for "zero GC" use-cases | [JEP 363](https://openjdk.java.net/jeps/363) |
 |         | ? NUMA aware G1                                   |                                                        | [JEP 345](https://openjdk.java.net/jeps/345) |
 |         | ? Non-Volatile Mapped Byte Buffers                |                                                        | [JEP 352](https://openjdk.java.net/jeps/352) |
 |         | ? Helpful NPEs                                    | Tells you which part of a compound statement was null  | [JEP 358](https://openjdk.java.net/jeps/358) |

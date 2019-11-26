@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: performance cpu
 title: Implications of AVX vector instruction usage
 ---

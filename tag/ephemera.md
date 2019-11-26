@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: windows"
-tag: windows
+title: "Tag: ephemera"
+tag: ephemera
 robots: noindex
 ---

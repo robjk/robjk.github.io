@@ -16,4 +16,8 @@ Various flavours thereof
 
 [bbc micro](https://youtu.be/22y_aiOx9CY)
 
+[zx spectrum](https://www.youtube.com/watch?v=cd5iEeIe7L0)
+
+[zx spectrum 128k](https://www.youtube.com/watch?v=dmUUyS8WpLg)
+
 [marcan's crazy physical laser rendering](https://www.youtube.com/watch?v=5A9Eh6D-K_g)

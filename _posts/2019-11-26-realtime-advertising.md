@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: performance ephemera
 ---
 ## Programmatic RTB Ad Impression Timing

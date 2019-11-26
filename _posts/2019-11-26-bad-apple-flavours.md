@@ -6,7 +6,7 @@ tags: demoscene ephemera
 ## Bad Apple!!
 
 Various flavours thereof
-
+![badapple.PNG]({{site.baseurl}}/assets/badapple.PNG)
 
 [remastered 1080p 60hz](https://www.youtube.com/watch?v=ktn51qeOY0A)
 [c64](https://youtu.be/OsDy-4L6-tQ)

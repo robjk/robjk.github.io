@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: math jupyter
 ---
 ## Interactive Fourier Transform Notebook

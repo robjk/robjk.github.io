@@ -12,4 +12,7 @@ workflow
 **[newsblur](https://newsblur.com)/[twitter](https://www.twitter.com)/other » [pocket](https://getpocket.com) »  ...time passes... » me » [prose.io](https://https://prose.io) » [github](https://github.com/robjk) » here**
 
 ---  
-todo: fixup the style-sheet to use more of the available screen width
+todo
+* fixup the style-sheet to use more of the available screen width
+* migrate 360+ existing pocket links to here...
+

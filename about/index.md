@@ -5,3 +5,7 @@ This site is a collation of various links/topics of relevance to me
 
 Over the years I've tried: del.icio.us, evernote, pocket, onenote and confluence  
 I'm guardedly optimistic that, **this time**, jekyll might actually be the one
+
+Current workflow
+
+**[newsblur](https://newsblur.com)/[twitter](https://www.twitter.com)/other » [pocket](https://getpocket.com) »  ...time passes... » me » [prose.io](https://https://prose.io) » [github](https://github.com/robjk) » here**

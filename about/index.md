@@ -1,7 +1,6 @@
 ![oops]({{site.baseurl}}/assets/oops.png)
 ---
-My name is Rob, I cajole computers into doing things  
-On occasion they've been know to be useful things
+My name is Rob, I cajole computers into doing things, on occasion they've been known to be useful things
 
 This site collates various links/topics of relevance to me - easily accessible non-proprietary external storage 
 

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: ml java
 ---
 ## Amazon Deep Learning Library

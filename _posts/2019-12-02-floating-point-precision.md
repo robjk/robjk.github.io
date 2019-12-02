@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: math java
 ---
 ## Floating Point Precision

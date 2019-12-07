@@ -13,6 +13,7 @@ The obvious: hexdump, strings
 | xxd     | better hexdump, also convert to/from binary<->hexdump                             |
 | od      | dump files as (e.g) words, ints, octal, big/little endian etc                     |
 | read    | take single line stdin/FD and assign delimited fields to supplied named variables |
+| xcd     | [Colourised xxd](http://www.muppetlabs.com/~breadbox/software/xcd.html)           |
 
 
 ### Various  examples

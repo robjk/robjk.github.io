@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: reversing linux
 ---
 ## Tools and tips for reversing/low-level inspection

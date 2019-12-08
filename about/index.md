@@ -14,5 +14,4 @@ workflow
 ---  
 todo
 * fixup the style-sheet to use more of the available screen width
-* migrate 360+ existing pocket links to here...
-
+* migrate ~~360~~ 390+ existing pocket links to here...

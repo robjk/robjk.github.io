@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: fx finance
 ---
 ## Finance articles

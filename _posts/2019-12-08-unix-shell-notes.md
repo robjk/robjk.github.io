@@ -1,6 +1,6 @@
 ---
 published: true
-tags: linux cli
+tags: linux cli expand
 ---
 ## Useful shell info
 

@@ -1,6 +1,6 @@
 ---
 published: true
-tags: fx finance
+tags: fx finance expand
 ---
 ## Finance articles
 

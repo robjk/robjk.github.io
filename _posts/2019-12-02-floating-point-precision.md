@@ -1,6 +1,6 @@
 ---
 published: true
-tags: math java
+tags: math java expand
 ---
 ## Floating Point Precision
 

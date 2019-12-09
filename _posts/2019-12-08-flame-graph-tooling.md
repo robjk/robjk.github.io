@@ -1,6 +1,6 @@
 ---
 published: true
-tags: performance
+tags: performance expand
 ---
 ## Flame graph tools
 

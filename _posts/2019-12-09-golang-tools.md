@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: golang
 title: GO related info
 ---

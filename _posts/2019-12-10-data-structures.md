@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: algorithims
 title: Data Structures & Algorithms
 ---

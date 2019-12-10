@@ -1,6 +1,6 @@
 ---
 published: true
-tags: algorithims
+tags: algorithms
 title: Data Structures & Algorithms
 ---
 ## Data Structures & Algorigthms

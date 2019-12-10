@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: performance expand
 title: Memory Fences
 ---

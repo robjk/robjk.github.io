@@ -10,3 +10,4 @@ A collection of links on the topic of fences that need to be distilled and expan
 **(import summary from evernote)**
 
 - [https://stackoverflow.com/questions/37452772/x86-64-usage-of-lfence?rq=1](https://stackoverflow.com/questions/37452772/x86-64-usage-of-lfence?rq=1)
+- [https://groups.google.com/forum/#!msg/mechanical-sympathy/BWYEfPKJeGQ/m4EOfdmBBwAJ](https://groups.google.com/forum/#!msg/mechanical-sympathy/BWYEfPKJeGQ/m4EOfdmBBwAJ)

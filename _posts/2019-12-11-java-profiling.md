@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: profiling java expand
 ---
 ## Java Profiling

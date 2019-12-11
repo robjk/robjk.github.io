@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: c++ expand
 ---
 ## C++ Resources

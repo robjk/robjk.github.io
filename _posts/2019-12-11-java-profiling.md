@@ -1,6 +1,6 @@
 ---
 published: true
-tags: profiling java expand
+tags: profiling java expand performance
 ---
 ## Java Profiling
 

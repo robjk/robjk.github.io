@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: performance linux expand
 title: eBPF & perf resources
 ---

@@ -16,6 +16,6 @@ title: eBPF & perf resources
 - [https://perf.wiki.kernel.org/index.php/Tutorial](https://perf.wiki.kernel.org/index.php/Tutorial)
 - [How can I download or install debuginfo packages for RHEL systems?](https://access.redhat.com/solutions/9907)
 
-### Tangetially off-topic
+### Tangentially off-topic
 
 - [Get page cache statistics for files](https://github.com/tobert/pcstat)

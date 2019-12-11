@@ -1,6 +1,6 @@
 ---
 published: true
-tags: java software reversing
+tags: java software reversing expand
 title: Java Decompilers
 ---
 ## Java Decompilers

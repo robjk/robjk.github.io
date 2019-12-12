@@ -9,10 +9,10 @@ In no particular order
 ## Richard Startin
 
 Low-level java, vectorization, performance, benchmarking and high-volume data
+- [Personal page](https://richardstartin.github.io)
 - [DZone articles](https://dzone.com/users/3194047/richardstartin.html)
 - [twitter](twitter.com/richardstartin)
 - [github](https://github.com/richardstartin)
-
 
 ## Aleksey Shipilëv
 

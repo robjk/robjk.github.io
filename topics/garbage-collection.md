@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garbage Collection Notes
-date: 2019-11-22T00:00:00.000Z
+date: 2019-11-22
 published: true
 tags: java gc
 ---

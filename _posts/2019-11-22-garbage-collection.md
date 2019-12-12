@@ -4,7 +4,7 @@ tags: java gc
 title: Garbage Collection Notes
 date: 2019-11-22
 ---
-## Garbe Collection Information/Resources
+## Garbage Collection Notes
 
 ## General
 - [Available collectors in 13 (Oracle)](https://docs.oracle.com/en/java/javase/13/gctuning/available-collectors.html#GUID-F215A508-9E58-40B4-90A5-74E29BF3BD3C)
@@ -22,4 +22,7 @@ date: 2019-11-22
 
 ## G1
 - [Old collection counter](https://stackoverflow.com/questions/53830693/java-g1-old-generation-garbage-collection-count-is-0)
+
+## Theory
+= [Shipilev: Implications of object locality and non/moving GC](https://shipilev.net/jvm/anatomy-quarks/11-moving-gc-locality/)
 

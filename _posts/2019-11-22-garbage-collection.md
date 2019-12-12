@@ -2,7 +2,7 @@
 published: true
 tags: java gc
 title: Garbage Collection Notes
-date: {}
+date: 2019-11-22
 ---
 ## Garbe Collection Information/Resources
 

@@ -31,3 +31,10 @@ OpenJDK build, JVMoptions explorer, JITWatch, JaCoLine, "Optimizing Java" author
 - [DemoFX](https://github.com/chriswhocodes/DemoFX)
 - [github](https://github.com/chriswhocodes)
 - [twitter](https://twitter.com/chriswhocodes)
+
+## Nitsan Wakart
+perf, Java performance, benchmarking, JCTools, "Psychosomatic, Lobotomy, Saw" author, vulgarian :)
+- [personal blog - Psychosomatic, Lobotomy, Saw](http://psy-lob-saw.blogspot.com)
+- [JCTools](http://jctools.github.io/JCTools/) - concurrent data structures
+- [github](https://github.com/nitsanw)
+- [twitter](https://twitter.com/nitsanw)

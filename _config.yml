@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 name: Rob
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title

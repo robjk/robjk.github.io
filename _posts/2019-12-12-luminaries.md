@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: java expand
 ---
 ## Folks who know their stuff

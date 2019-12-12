@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
 name: Rob
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title

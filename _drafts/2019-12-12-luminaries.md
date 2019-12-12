@@ -22,7 +22,7 @@ GC, Shanandoah/Epsilon, JVM Anatomy author, JMH dev, RedHat JDK dev
 - [JVM builds - "builds.shipilev.net — still more secure than npm install"](https://builds.shipilev.net)
 - [twitter](https://twitter.com/shipilev)
 
-## Chris newland
+## Chris Newland
 
 OpenJDK build, JVMoptions explorer, JITWatch, JaCoLine, "Optimizing Java" author, DemoFX
 - [Personal page](https://www.chriswhocodes.com)

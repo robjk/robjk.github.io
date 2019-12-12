@@ -16,7 +16,7 @@ Low-level java, vectorization, performance, benchmarking and high-volume data
 
 ## Aleksey Shipilëv
 
-GC, Shanandoah/Epsilon, JVM Anatomy author, JMH dev, RedHat JDK dev
+GC, Shenandoah/Epsilon, JVM Anatomy author, JMH dev, RedHat JDK dev
 - [Personal page](https://shipilev.net)
 - [JVM Anatomy seminal work](https://shipilev.net/jvm/anatomy-quarks/)
 - [JVM builds - "builds.shipilev.net — still more secure than npm install"](https://builds.shipilev.net)

@@ -15,6 +15,7 @@ title: eBPF & perf resources
 - [http://prace.it4i.cz/sites/prace.it4i.cz/files/files/phi-02-2018-04_profiling.pdf](http://prace.it4i.cz/sites/prace.it4i.cz/files/files/phi-02-2018-04_profiling.pdf)
 - [https://perf.wiki.kernel.org/index.php/Tutorial](https://perf.wiki.kernel.org/index.php/Tutorial)
 - [How can I download or install debuginfo packages for RHEL systems?](https://access.redhat.com/solutions/9907)
+- [https://www.redhat.com/en/blog/introduction-ebpf-red-hat-enterprise-linux-7](https://www.redhat.com/en/blog/introduction-ebpf-red-hat-enterprise-linux-7)
 
 ### Tangentially off-topic
 

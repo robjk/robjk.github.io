@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: java expand
 ---
 ## The Black Magic of (Java) Method Dispatch

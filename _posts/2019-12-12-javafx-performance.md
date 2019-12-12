@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: java gfx
 ---
 ## JavaFX performance 

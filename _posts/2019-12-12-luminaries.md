@@ -1,6 +1,6 @@
 ---
 published: false
-tags: java
+tags: java expand
 ---
 ## Folks who know their stuff
 

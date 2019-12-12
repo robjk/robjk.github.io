@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: linux performance cli
 ---
 ## Under-the-hood tools for the kernel

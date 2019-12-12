@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: java gc
 title: Garbage Collection Notes
 date: {}

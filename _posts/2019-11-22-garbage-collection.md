@@ -24,5 +24,5 @@ date: 2019-11-22
 - [Old collection counter](https://stackoverflow.com/questions/53830693/java-g1-old-generation-garbage-collection-count-is-0)
 
 ## Theory
-= [Shipilev: Implications of object locality and non/moving GC](https://shipilev.net/jvm/anatomy-quarks/11-moving-gc-locality/)
+- [Shipilev: Implications of object locality and non/moving GC](https://shipilev.net/jvm/anatomy-quarks/11-moving-gc-locality/)
 

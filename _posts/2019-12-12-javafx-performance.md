@@ -13,3 +13,4 @@ tags: java gfx
 - [How to create JavaFX project on JDK 11](https://dzone.com/articles/javafx-on-jdk-11)
 - [Getting started with JavaFX 13](https://openjfx.io/openjfx-docs/#install-javafx)
 - [Choppy animation bug](https://bugs.openjdk.java.net/browse/JDK-8136536)
+- [How to improve performance of JavaFX graphic drawing?](http://www.hackerav.com/?post=133202)

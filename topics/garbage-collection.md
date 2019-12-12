@@ -3,6 +3,7 @@ layout: post
 title: Garbage Collection Notes
 date: 2019-11-22T00:00:00.000Z
 published: true
+tags: java gc
 ---
 ## General
 - [Available collectors in 13 (Oracle)](https://docs.oracle.com/en/java/javase/13/gctuning/available-collectors.html#GUID-F215A508-9E58-40B4-90A5-74E29BF3BD3C)
@@ -16,8 +17,7 @@ published: true
 /assets/jugbb-Sep2019-shenandoah.pdf)
 - [Shenandoah GC in production - 2019](http://clojure-goes-fast.com/blog/shenandoah-in-production/)
 - [HN thread for the above](https://news.ycombinator.com/item?id=19885863)
+- [Devox video - nov 2019](https://www.youtube.com/watch?v=MU8NapbG1IQ)
 
 ## G1
 - [Old collection counter](https://stackoverflow.com/questions/53830693/java-g1-old-generation-garbage-collection-count-is-0)
-
-

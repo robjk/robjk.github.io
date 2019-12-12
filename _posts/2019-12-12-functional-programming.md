@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: functional
 ---
 ## Articles and resources about functional programming

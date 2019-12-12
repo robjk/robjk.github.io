@@ -4,5 +4,5 @@ tags: functional
 ---
 ## Articles and resources about functional programming
 
-[Tail-recursion clear summary](https://functional.christmas/2019/12)
+[Tail-recursion, a clear summary](https://functional.christmas/2019/12)
 

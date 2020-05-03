@@ -1,11 +1,13 @@
 ---
 published: false
+title: History of Linux Task Isolation
+tags: linux performance
 ---
 ## A history of linux isolation mechanisms
 
 [Matt Fleming](https://twitter.com/fleming_matt "twitter")
 
-[pdf](assets\The History of Linux Task Isolation.pdf)
+[pdf](/assets/The History of Linux Task Isolation.pdf)
 
 
 - 2002: sched_setaffinity() / sched_getaffinity() (v2.5.8)
@@ -21,5 +23,6 @@ published: false
 - RCU
 - Unstable clocks
 
-
-
+Frederic Weisbecker
+[youtube talk](https://www.youtube.com/watch?v=CJLA558npCU "Kernel Recipes 2015 - CPU isolation: state of the art")
+[youtube talk](https://www.youtube.com/watch?v=ai-Avto0c0Q "Kernel Recipes 2018 - State of CPU Isolation")

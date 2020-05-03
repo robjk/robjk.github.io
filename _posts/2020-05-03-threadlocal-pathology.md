@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: java performance
 title: ThreadLocal pathological behaviour
 ---

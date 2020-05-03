@@ -1,0 +1,16 @@
+---
+published: false
+tags: java performance
+title: ThreadLocal pathological behaviour
+---
+## ThreadLocal Pathology
+
+http://cs.oswego.edu/pipermail/concurrency-interest/2018-October/016685.html
+
+In summary, ReentrantReadWriteLock can create short-lived ThreadLocal instances, failure to ```remove()``` these repeatedly can result in the internal map containing millions of entries, walking the collissions becomes costly
+
+```The problem with “short lived” thread locals that do not explicitly use remove() when they are no longer needed, is that in those situations “short lived” means “until the next GC detects that the ThreadLocal is no longer reachable, and the weak reference to that ThreadLocal starts returning nulls”. Scanning for stale entries more frequently, or on an API call, won’t help these situations because the map entries are not “stale” until the collector determines the unreachability of their related ThreadLocal instances. When short lived ThreadLocals are created and die at a rate linear to application throughout, this leads to ThreadLocal maps in active threads holding thousands or millions of entries, to extremely long collision chains, and to situations where half the CPU is spent walking those chains in ThreadLocal.get().
+
+Where would such a ThreadLocal instance creation rate come from? We’ve seen it happen in the wild in quite a few places. I initially thought of it as an application or library-level misuse of a ThreadLocal, but with each instance of juc ReentrantReadWriteLock potentially using a ThreadLocal instance for internal coordination, application and library writers that use ReentrantReadWriteLock in a seemingly idiomatic way are often unaware of the ThreadLocal implications. A simple, seemingly valid pattern for using ReentrantReadWriteLock would be a system where arriving work “packets” are handled by parallel threads (doing parallel work within the work packet), where each work packet uses its own of ReentrantReadWriteLock instance for coordination of the parallelism within the packet.
+
+> With G1 (and C4, and likely Shenandoah and ZGC), with the current ThreadLocal implementation, the “means “until the next GC detects that the ThreadLocal is no longer reachable” meaning gets compounded by the fact that collisions in the map will actually prevent otherwise-unreachable ThreadLocal instances from becoming unreachable. As long as get() calls for other (chain colliding) ThreadLocals are actively performed on any thread, where “actively” means “more than once during a mark cycle”, the weakrefs from the colliding entries get strengthened during the mark, preventing the colliding ThreadLocal instances from dying in the given GC cycle.. Stop-the-world newgen provides a bit of a filter for short-lived-enough ThreadLocals for G1, but for ThreadLocals with mid-term lifecycles (which will naturally occur as queues in a work system as described above grow under load), or without such a STW newgen (which none of the newer collectors have or want to have have), this situation leads to explosive ThreadLocal map growth under high-enough throughout situations.```

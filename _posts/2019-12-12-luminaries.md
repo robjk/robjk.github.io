@@ -1,6 +1,6 @@
 ---
 published: true
-tags: java expand
+tags: java expand performance
 ---
 ## Folks who know their stuff
 
@@ -38,3 +38,6 @@ perf, Java performance, benchmarking, JCTools, "Psychosomatic, Lobotomy, Saw" au
 - [JCTools](http://jctools.github.io/JCTools/) - concurrent data structures
 - [github](https://github.com/nitsanw)
 - [twitter](https://twitter.com/nitsanw)
+
+
+[Performance resources](https://github.com/mfleming/performance-resources/blob/master/README.md)

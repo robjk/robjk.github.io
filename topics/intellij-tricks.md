@@ -9,3 +9,6 @@
 - [Ctrl-Shift-A find action](https://www.jetbrains.com/help/idea/working-with-source-code.html?_ga=2.212577108.1921711014.1588493527-1538027017.1587903708#870116b0)
 
 - [Mastering keyboard shortcuts](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html?_ga=2.52593384.1921711014.1588493527-1538027017.1587903708)
+
+- [Stream tracing](https://www.jetbrains.com/help/idea/analyze-java-stream-operations.html)
+![Stream tracing]({{site.baseurl}}/assets/stream_tracing.gif)

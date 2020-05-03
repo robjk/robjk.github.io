@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: reading
 title: Books to be read
 ---

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## memories: 256 byte demo, winner of Revision 2020
 

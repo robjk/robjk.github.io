@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: gfx demoscene asm
 title: 32 byte Game Of Life for DOS
 ---

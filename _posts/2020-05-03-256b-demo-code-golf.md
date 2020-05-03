@@ -1,5 +1,7 @@
 ---
 published: true
+tags: asm gfx demoscene
+title: memoris 256 byte dos demo
 ---
 ## memories: 256 byte demo, winner of Revision 2020
 

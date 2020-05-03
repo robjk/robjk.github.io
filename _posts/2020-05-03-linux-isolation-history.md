@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: History of Linux Task Isolation
 tags: linux performance
 ---

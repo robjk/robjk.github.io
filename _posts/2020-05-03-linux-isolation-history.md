@@ -7,7 +7,7 @@ tags: linux performance
 
 [Matt Fleming](https://twitter.com/fleming_matt "twitter")
 
-![pdf]({{site.baseurl}}/assets/The%20History%20of%20Linux%20Task%20Isolation.pdf)
+[pdf]({{site.baseurl}}/assets/The%20History%20of%20Linux%20Task%20Isolation.pdf)
 
 - 2002: sched_setaffinity() / sched_getaffinity() (v2.5.8)
 - 2004: isolcpus (v2.6.9)

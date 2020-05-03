@@ -4,6 +4,8 @@ tags: java expand performance
 ---
 ## Folks who know their stuff
 
+[Performance resources](https://github.com/mfleming/performance-resources/blob/master/README.md)
+
 In no particular order
 
 ## Richard Startin
@@ -38,6 +40,3 @@ perf, Java performance, benchmarking, JCTools, "Psychosomatic, Lobotomy, Saw" au
 - [JCTools](http://jctools.github.io/JCTools/) - concurrent data structures
 - [github](https://github.com/nitsanw)
 - [twitter](https://twitter.com/nitsanw)
-
-
-[Performance resources](https://github.com/mfleming/performance-resources/blob/master/README.md)

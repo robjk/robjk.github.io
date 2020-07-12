@@ -1,6 +1,6 @@
 ---
 published: true
-tags: time performance java linux
+tags: performance java linux
 title: Java & Linux clocks - State of the world
 ---
 ## Java & Linux clocks - State of the world

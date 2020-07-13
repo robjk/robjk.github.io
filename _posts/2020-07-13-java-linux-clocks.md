@@ -10,9 +10,13 @@ Pulling together state of the world with respect to time sources in Linux and Ja
 **WIP, requires summarisation**
 
 - [Measuring time, from Java to kernel and back (Jaromir Hamala ~dec 2019)](https://www.javaadvent.com/2019/12/measuring-time-from-java-to-kernel-and-back.html)
-    ### available clock sources
+
+**available clock sources**
+
     cat /sys/devices/system/clocksource/clocksource0/available_clocksource
-    ### specify clock source
+    
+**specify clock source**
+
     echo tsc > /sys/devices/system/clocksource/clocksource0/current_clocksource
 
 

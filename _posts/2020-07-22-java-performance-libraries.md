@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: performance java
 title: High performance Java libraries
 ---

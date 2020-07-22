@@ -7,5 +7,5 @@ title: High performance Java libraries
 
 ### Collections
 
-- [https://github.com/JCTools/JCTools/releases/tag/v3.0.0](JCTools, Nitsan's library)
-- [https://github.com/LMAX-Exchange/disruptor](Disruptor, the granddaddy from MJT)
+- [JCTools, Nitsan's library](https://github.com/JCTools/JCTools/releases/tag/v3.0.0)
+- [Disruptor, the granddaddy from MJT](https://github.com/LMAX-Exchange/disruptor)

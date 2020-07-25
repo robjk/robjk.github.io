@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: cli windows
 title: Windows Utilities
 ---

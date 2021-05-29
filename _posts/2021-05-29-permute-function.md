@@ -1,11 +1,11 @@
 ---
 published: true
-title: Permute function
+title: Andrew Kensler’s permute function
 tags: algorithms gfx
 ---
-## Description of a permute function
+## Description of Andrew Kensler’s permute function
 
-> You want to iterate over kk items of an array of length nn, in random order, where k \leq nk≤n. Those kk items cannot contain duplicates from the original array (they must each correspond to a unique index). Or, you want to get a random sample of kk items without replacement.
+> You want to iterate over k items of an array of length n, in random order, where k ≤ n. Those k items cannot contain duplicates from the original array (they must each correspond to a unique index). Or, you want to get a random sample of kk items without replacement.
 
 [Andrew Helmer's explanation](https://andrew-helmer.github.io/permute/)
 

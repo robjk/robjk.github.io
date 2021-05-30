@@ -40,3 +40,10 @@ perf, Java performance, benchmarking, JCTools, "Psychosomatic, Lobotomy, Saw" au
 - [JCTools](http://jctools.github.io/JCTools/) - concurrent data structures
 - [github](https://github.com/nitsanw)
 - [twitter](https://twitter.com/nitsanw)
+
+## Matt Godbolt
+perf, c++,
+- [github](https://github.com/mattgodbolt)
+- [godbolt - online compiler comparator](https://godbolt.org)
+- [Out Of Order Execution slide](https://mattgodbolt.github.io/ooo/#/)
+- [Corresponding (poorly edited) youtube](https://www.youtube.com/watch?v=hgcNM-6wr34)

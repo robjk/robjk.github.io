@@ -47,3 +47,4 @@ perf, c++,
 - [godbolt - online compiler comparator](https://godbolt.org)
 - [Out Of Order Execution slide](https://mattgodbolt.github.io/ooo/#/)
 - [Corresponding (poorly edited) youtube](https://www.youtube.com/watch?v=hgcNM-6wr34)
+- [many fascinating talks](https://www.google.com/search?q=matt+godbolt+talks)

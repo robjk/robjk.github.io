@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Compiler and optimization terminology
 tags: java performance
 ---

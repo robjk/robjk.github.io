@@ -45,4 +45,6 @@ tools [crack legacy zip encryption](https://github.com/kimci86/bkcrack)
 
 tools [cron job failure notifier](https://cronitor.io/pricing)
 
+docker tools [docker compose best practives](https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod)
+
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

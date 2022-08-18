@@ -30,6 +30,12 @@
 
 [interesting thread on StringBuilder performance](https://twitter.com/tkowalcz/status/1433149067639525381)
 
+[queries around accuracy of JFR timing](https://twitter.com/AndreiPangin/status/1442089482757414932)
+
+[activepivot's discussion on partitioning and NUMA](https://www.activeviam.com/activepivot/5.10.0/docs/concepts/partitioning.html)
+
+[static fields in inner classes](https://twitter.com/sundararajan_a/status/1443044725083152389)
+
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

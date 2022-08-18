@@ -1,3 +1,6 @@
+---
+published: false
+---
 ## Links that are yet to be reviewed
 
 [mark dawsons performance blog](https://www.jabperf.com/about/)
@@ -38,6 +41,6 @@
 
 \!\!\! [The memory subsystem from the viewpoint of software](https://johnysswlab.com/the-memory-subsystem-from-the-viewpoint-of-software-how-memory-subsystem-affects-software-performance-2-3/)
 
-
+[crack legacy zip encryption](https://github.com/kimci86/bkcrack)
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

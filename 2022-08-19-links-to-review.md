@@ -36,6 +36,7 @@
 
 [static fields in inner classes](https://twitter.com/sundararajan_a/status/1443044725083152389)
 
+[The memory subsystem from the viewpoint of software - !!!](https://johnysswlab.com/the-memory-subsystem-from-the-viewpoint-of-software-how-memory-subsystem-affects-software-performance-2-3/)
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

@@ -24,5 +24,12 @@
 
 [jdk 17 giLparallel  gc changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
 
+[best jvm options from 11 through 17](https://blogs.oracle.com/javamagazine/post/the-best-hotspot-jvm-options-and-switches-for-java-11-through-java-17)
+
+[btop resource monitor for linux](https://twitter.com/lcheylus/status/1439848059790364676)
+
+[interesting thread on StringBuilder performance](https://twitter.com/tkowalcz/status/1433149067639525381)
+
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

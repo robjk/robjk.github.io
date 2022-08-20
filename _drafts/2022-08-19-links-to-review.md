@@ -51,7 +51,7 @@ tools linux [one pager for ssh tunnelling](https://goteleport.com/blog/ssh-tunne
 
 java [new features from java 8 through 18](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-18/)
 
-\!\!\! java [a tour of netty](https://medium.com/geekculture/a-tour-of-netty-5020ecee5494)
+\!\!\! java [a tour of netty](https://medium.com/geekculture/a-tour-of-netty-5020ecee5494) :heavy_check_mark:
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

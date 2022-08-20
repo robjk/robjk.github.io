@@ -47,4 +47,10 @@ tools [cron job failure notifier](https://cronitor.io/pricing)
 
 docker tools [docker compose best practives](https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod)
 
+tools linux [one pager for ssh tunnelling](https://goteleport.com/blog/ssh-tunneling-explained/)
+
+java [new features from java 8 through 18](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-18/)
+
+
+
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

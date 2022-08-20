@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: expand ephemera
 title: links to be reviewed
 ---

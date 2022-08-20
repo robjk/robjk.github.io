@@ -1,7 +1,12 @@
 ---
 published: false
+tags: expand ephemera
+title: links to be reviewed
 ---
 ## Links that are yet to be reviewed
+
+Placeholder post for an ever-growing list of links that "I'll totally clear down next time I'm on holiday"
+
 
 java perf [mark dawsons performance blog](https://www.jabperf.com/about/)
 

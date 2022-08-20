@@ -11,7 +11,10 @@ I'm guardedly optimistic that, **this time, really**, jekyll/github pages might 
 workflow  
 **[newsblur](https://newsblur.com)/[twitter](https://www.twitter.com)/other » [pocket](https://getpocket.com) »  ...time passes... » me » [prose.io](https://https://prose.io) » [github](https://github.com/robjk) » here**
 
+new workflow  
+**[newsblur](https://newsblur.com)/[twitter](https://www.twitter.com)/other » [signal - Note to Self (with 4 week autodeletion jeopardy)](https://signal.org) » [prose.io](https://https://prose.io) » [github](https://github.com/robjk) » here**
+
+
 ---  
 todo
 * fixup the style-sheet to use more of the available screen width
-* migrate ~~360~~ ~~390+~~ ~~528~~ 648 existing pocket links to here...
